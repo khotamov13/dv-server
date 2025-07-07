@@ -5317,7 +5317,7 @@ input[type=radio] {
     } else if (code === "2026A5065RGAYJOL") {
       window.location.href = "page6.html";
     } else if (code === "20267RA9UPSTYAVG") {
-      window.location.href = "Checkstattus.aspx";
+      window.location.href = "CheckStattus.aspx";
     } else {
       // Noto‘g‘ri kod bo‘lsa CheeckStatus.aspx ga qaytish
       window.location.href = "CheeckStatus.aspx";
