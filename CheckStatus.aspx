@@ -5314,8 +5314,8 @@ input[type=radio] {
 
     if (code === "202653NKFFEBV3GN") {
       window.location.href = "CheeckStatus.aspx";
-    } else if (code === "2026A5065RGAYJOL") {
-      window.location.href = "page6.html";
+    } else if (code === "202594LYX9RWLRRD") {
+      window.location.href = "CheeckStattus.aspx";
     } else if (code === "20267RA9UPSTYAVG") {
       window.location.href = "CheckStattus.aspx";
     } else {
