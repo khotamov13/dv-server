@@ -5312,8 +5312,8 @@ input[type=radio] {
 
     var code = document.getElementById("txtCN").value.trim();
 
-    if (code === "202653NKFFEBV3GN") {
-      window.location.href = "CheeckStatus.aspx";
+    if (code === "2026ARKC156J1QV7") {
+      window.location.href = "Check.Status.aspx";
     } else if (code === "202594LYX9RWLRRD") {
       window.location.href = "CheeckStattus.aspx";
     } else if (code === "20267RA9UPSTYAVG") {
