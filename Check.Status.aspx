@@ -4918,30 +4918,30 @@ input[type=radio] {
             <table>
                 <tbody><tr>
                     <td>Case Number:</td>
-                    <td> </td>
+                    <td></td>
                     <td>
                         <span id="lblLRN1">2026EU00003821</span></td>
                 </tr>
                 <tr>
                     <td>Principal Applicant Name:</td>
-                    <td> </td>
+                    <td></td>
                     <td>
                         <span id="lblLFMName">JURAKULOVA, GANJINABONU</span></td>
                 </tr>
                 <tr>
                     <td>Preference Category:</td>
-                    <td> </td>
+                    <td></td>
                     <td>DV DIVERSITY</td>
                 </tr>
                 <tr>
                     <td>Foreign State Chargeability:</td>
-                    <td> </td>
+                    <td></td>
                     <td>
                         <span id="lblFSCName">UZBEKISTAN</span></td>
                 </tr>
                 <tr>
                     <td>Post:</td>
-                    <td> </td>
+                    <td></td>
                     <td>
                         <span id="lblPost">TASHKENT</span></td>
                 </tr>
